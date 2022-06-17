@@ -1,0 +1,2 @@
+rootProject.name = "RecyleView_Taura"
+include ':app'
